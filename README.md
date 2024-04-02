@@ -4,10 +4,11 @@
 
 #### Open the terminal and run the following commands:
 
-'''bash
+'''
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
+'''
 
 ## What's Included
 
@@ -20,7 +21,7 @@ pip install -r requirements.txt
 -  How to use GitHub Actions to deploy a website to Azure App Service
 
 
-# Questions / Uncertainties
+## Questions / Uncertainties
 
 -  What if I want to make the profile picture round?
 -  How to use a two column layout?
