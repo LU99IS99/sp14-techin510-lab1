@@ -12,7 +12,7 @@ pip install -r requirements.txt
 
 ## What's Included
 
-- ‘app.py': The main Flask application
+- `app.py`: The main Flask application
 
 ## Lessons Learned
 
