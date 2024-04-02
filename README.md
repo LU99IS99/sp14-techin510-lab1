@@ -1,23 +1,19 @@
 # 510 Lab 1 - Personal Website using Streamlit
-## Junyan Lu website for TECHIN 510 Lab 1 by using Streamlit
-# How to Run
-## Open the terminal and run the following commands:
+#### Junyan Lu website for TECHIN 510 Lab 1 by using Streamlit
+## How to Run
+
+#### Open the terminal and run the following commands:
 
 '''bash
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
-'''
 
-# What's Included
-
----
+## What's Included
 
 - 'app.py': The main Flask application
 
-# Lessons Learned
-
----
+## Lessons Learned
 
 -  How to use Streamlit to create a simple website
 -  How to use requirements.txt to manage Python dependencies
@@ -25,8 +21,6 @@ pip install -r requirements.txt
 
 
 # Questions / Uncertainties
-
----
 
 -  What if I want to make the profile picture round?
 -  How to use a two column layout?
