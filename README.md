@@ -1,5 +1,5 @@
 # 510 Lab 1 - Personal Website using Streamlit
-#### Junyan Lu website for TECHIN 510 Lab 1 by using Streamlit
+Junyan Lu website for TECHIN 510 Lab 1 by using Streamlit
 ## How to Run
 
 #### Open the terminal and run the following commands:
